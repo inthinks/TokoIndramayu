@@ -28,3 +28,7 @@ composer.phar
 phpunit.phar
 # local phpunit config
 /phpunit.xml
+backend/web/images
+frontend/web/images
+frontend/web/product
+frontend/web/profil
